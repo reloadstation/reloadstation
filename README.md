@@ -58,7 +58,7 @@ Kami melayani pembelian:
 
 📱 WhatsApp: [Klik Disini](https://wa.me/6287857744127)
 📸 Instagram: [@rstopup.store](https://instagram.com/rstopup.store)
-📘 Facebook: [Rstopup.store](https://facebook.com/Rstopup.store)
+📘 Facebook: [reloadstation.id](https://facebook.com/Rstopup.store)
 🌐 Website: [ReloadStation.id](https://reloadstation.id)
 
 ![Contact Us](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
