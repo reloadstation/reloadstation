@@ -2,7 +2,9 @@
 
 **Top Up Game, Pulsa, Token Listrik, dan Produk Digital Terpercaya!**
 
-![Animated Banner](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<!-- Banner GIF: Mobile game — colorful neon style -->
+
+![Mobile Game Banner](https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif)
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?size=22\&color=00BFFF\&width=800\&lines=💥+Top+Up+Game+Murah+dan+Cepat!;⚡+Token+Listrik+24+Jam+Nonstop;🎮+Mobile+Legends,+Free+Fire,+Genshin+Impact;💳+Voucher+Digital+Spotify,+Netflix,+Google+Play)
 
@@ -13,7 +15,14 @@
 
 ---
 
+<!-- Animated SVG Wave (source: andreasbm/readme) -->
+
 ![Animated Wave](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)
+
+## 🎮 Gaming Vibes — Mobile Game Colorful
+
+![Gaming Loop](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+*Banner dan GIF ini bertema mobile game berwarna-warni untuk memberi kesan neon dan energik.*
 
 ## 💡 Tentang Kami
 
@@ -25,8 +34,6 @@ Kami melayani pembelian:
 * 🔌 **Token Listrik PLN**: 24 Jam Nonstop.
 * 💳 **Voucher Digital**: Spotify, Netflix, Google Play, dan lainnya.
 
-![Game Animation](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
-
 ---
 
 ## 🌟 Kenapa Pilih ReloadStation.id?
@@ -35,8 +42,6 @@ Kami melayani pembelian:
 ⚡ **Proses Instan** — Transaksi diproses dalam hitungan detik.
 🔒 **Aman Terpercaya** — Didukung sistem pembayaran resmi.
 📞 **Layanan Ramah** — Customer service siap membantu kapan saja.
-
-![Fast Service](https://media.giphy.com/media/3o7TKsQ5yZnzU6I0FW/giphy.gif)
 
 ---
 
@@ -47,8 +52,6 @@ Kami melayani pembelian:
 3. Masukkan data yang diperlukan (ID game / nomor HP / meter listrik).
 4. Pilih metode pembayaran.
 5. Selesaikan transaksi dan tunggu produk dikirim **instan** ke akun Anda.
-
-![Order Animation](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ---
 
@@ -65,9 +68,9 @@ Kami melayani pembelian:
 
 ## 📬 Hubungi Kami
 
-📱 WhatsApp: [Klik Disini](https://wa.me/6287857744127)
-📸 Instagram: [@reloadstation.id](https://instagram.com/rstopup.store)
-📘 Facebook: [ReloadStation.id](https://facebook.com/Rstopup.store)
+📱 WhatsApp: [Klik Disini](https://wa.me/6281234567890)
+📸 Instagram: [@reloadstation.id](https://instagram.com/reloadstation.id)
+📘 Facebook: [ReloadStation.id](https://facebook.com/reloadstation.id)
 🌐 Website: [ReloadStation.id](https://reloadstation.id)
 
 ![Contact Us](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
