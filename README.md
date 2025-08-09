@@ -10,9 +10,6 @@
 
 [![Website](https://img.shields.io/badge/🌐%20Website-ReloadStation.id-blue?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://reloadstation.id)
 
-<!-- Animated SVG Wave (source: andreasbm/readme) -->
-
-![Animated Wave](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)
 
 
 ## 💡 Tentang Kami
