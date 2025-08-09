@@ -59,15 +59,14 @@ Kami melayani pembelian:
 
 ## 📬 Hubungi Kami
 
-📱 WhatsApp: [Klik Disini](https://wa.me/6281234567890)
-📸 Instagram: [@reloadstation.id](https://instagram.com/reloadstation.id)
-📘 Facebook: [ReloadStation.id](https://facebook.com/reloadstation.id)
+📱 WhatsApp: [Klik Disini](https://wa.me/6287857744127)
+📸 Instagram: [@reloadstation.id](https://instagram.com/rstopup.store)
+📘 Facebook: [ReloadStation.id](https://facebook.com/Rstopup.store)
 🌐 Website: [ReloadStation.id](https://reloadstation.id)
 
 ![Contact Us](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
-![Animated Wave](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)
 
 > 💬 **ReloadStation.id — Top Up Instan, Harga Bersahabat!**
