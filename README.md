@@ -1,11 +1,4 @@
-# <!-- Rata tengah teks -->
-<div style="text-align: center;">
-</div>
-
-<div style="text-align: center;">
-  <img src="gambar.jpg" alt="Contoh Gambar" width="300">
-</div>
-
+#  <div style="text-align: center;">
 🚀 ReloadStation.id
 
 **Top Up Game, Pulsa, Token Listrik, dan Produk Digital Terpercaya!**
