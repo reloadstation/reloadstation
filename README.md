@@ -4,7 +4,7 @@
 
 <!-- Banner GIF: Mobile game — colorful neon style -->
 
-![Mobile Game Banner](background gift 3.gif)
+![Mobile Game Banner](https://github.com/reloadstation/github.io/blob/main/background%20gift%20lutfi.gif)
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?size=22\&color=00BFFF\&width=800\&lines=💥+Top+Up+Game+Murah+dan+Cepat!;⚡+Token+Listrik+24+Jam+Nonstop;🎮+Mobile+Legends,+Free+Fire,+Genshin+Impact;💳+Voucher+Digital+Spotify,+Netflix,+Google+Play)
 
