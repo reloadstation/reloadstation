@@ -4,14 +4,14 @@
 
 <!-- Banner GIF: Mobile game — colorful neon style -->
 
-![Mobile Game Banner](https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif)
+![Mobile Game Banner](background gift 3.gif)
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?size=22\&color=00BFFF\&width=800\&lines=💥+Top+Up+Game+Murah+dan+Cepat!;⚡+Token+Listrik+24+Jam+Nonstop;🎮+Mobile+Legends,+Free+Fire,+Genshin+Impact;💳+Voucher+Digital+Spotify,+Netflix,+Google+Play)
 
 [![Website](https://img.shields.io/badge/🌐%20Website-ReloadStation.id-blue?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://reloadstation.id)
 [![WhatsApp](https://media.giphy.com/media/4eflE02q7JX8Y/giphy.gif)](https://wa.me/6281234567890)
 [![Instagram](https://media.giphy.com/media/j5hZW0mjLk8J5xAiUL/giphy.gif)](https://instagram.com/reloadstation.id)
-[![Facebook](https://media.giphy.com/media/Y3nM5jYBtQ0pG/giphy.gif)](https://facebook.com/reloadstation.id)
+[![Facebook]([https://media.giphy.com/media/Y3nM5jYBtQ0pG/giphy.gif](https://tenor.com/id/view/facebook-gif-27116487))](https://facebook.com/Rstopup.store)
 
 ---
 
